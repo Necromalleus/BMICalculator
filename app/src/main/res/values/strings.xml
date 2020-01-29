@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="hint1">Weight</string>
+    <string name="hint2">Inches</string>
+    <string name="hint3">Interest Rate</string>
+    <string name="btnPayment">Compute BMI</string>
+    <string name="imgDescription">Number of Years Image</string>
+    <string name="txtPayment">Monthly Payment</string>
+    <string name="txtTitle">BMI Calculator</string>
+</resources>
